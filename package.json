@@ -1,0 +1,10 @@
+{
+  "name": "propguard",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Real-time prop firm compliance monitor via Alpaca + Discord alerts",
+  "main": "propguard.mjs",
+  "scripts": {
+    "start": "node propguard.mjs"
+  }
+}
